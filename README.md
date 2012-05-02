@@ -6,3 +6,4 @@
 - Sound and Tween managers
 - Math helpers
 - Debug and Delegate helpers
+- Custom effects
